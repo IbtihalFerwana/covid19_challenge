@@ -1,5 +1,5 @@
 # COVID19 Challenge
-A data challenge held by the [@DataCommunitySA](https://twitter.com/DataCommunitySA) on March 15th, 2020 to submit a report that uses open sourced data of COVID19 and extract valuable information regarding the virus
+A data challenge held by the [@DataCommunitySA](https://twitter.com/DataCommunitySA) on March 15th, 2020 to submit a report that utilizes open sourced data of COVID19 and shows valuable extracted information regarding the virus
 #### Among 150+ participants, I was palced the 3rd in a pool of 4 selected winners >>  [Congratulation tweet in Arabic](https://twitter.com/DataCommunitySA/status/1249400618676076552?s=20)
 
 ## Main Report Content -- How Does It Fly?
