@@ -15,7 +15,7 @@ A data challenge held by the [@DataCommunitySA](https://twitter.com/DataCommunit
 ### Spread Factors
 * It was assumed that some country-level factors e.g. life expectancy score, epidemics history (ebola, sars, mers-cov), etc. can show a correlation with the current COVID19 number of confirmed cases
 * There was no strong correlation, but a potential correlation
-* For example, life expectancy and population density showed a positive correlation with the Log number of COVID19 confirmed cases
+* For example, life expectancy and population density showed an increasing pattern with the Log number of COVID19 confirmed cases
 
 ![](/images/life_exp_confirmed_final.png) ![](/images/pop_den_conf_final.png)
 
