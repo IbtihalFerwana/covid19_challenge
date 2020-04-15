@@ -2,7 +2,7 @@
 A data challenge held by the [@DataCommunitySA](https://twitter.com/DataCommunitySA) on March 15th, 2020 to submit a report that uses open sourced data of COVID19 and extract valuable information regarding the virus
 #### Among 150+ participants, I was palced the 3rd in a pool of 4 selected winners >>  [Congratulation tweet in Arabic](https://twitter.com/DataCommunitySA/status/1249400618676076552?s=20)
 
-## Main Report Content
+## Main Report Content -- How Does It Fly?
 ### Time Cycle of the Virus
 ![](/images/time_diff_onset_confirmed.png) ![](images/time_diff_conf_recov.png) ![](images/time_diff_conf_dead.png)
 
